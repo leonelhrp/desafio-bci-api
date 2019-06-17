@@ -1,0 +1,29 @@
+{
+  "name": "desafio-bci-api",
+  "version": "1.0.0",
+  "description": "Repositorio para Desafío de BCI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonelhrp/desafio-bci-api.git"
+  },
+  "keywords": [
+    "nodejs",
+    "basico"
+  ],
+  "author": "Leonel Rojas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonelhrp/desafio-bci-api/issues"
+  },
+  "homepage": "https://github.com/leonelhrp/desafio-bci-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.3",
+    "nodemon": "^1.18.4"
+  }
+}

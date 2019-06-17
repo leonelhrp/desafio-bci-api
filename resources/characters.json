@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Luke Skywalker",
+    "slug": "luke",
+    "height": "172",
+    "mass": "77",
+    "hair_color": "blond",
+    "skin_color": "fair",
+    "eye_color": "blue",
+    "birth_year": "19BBY",
+    "gender": "male",
+    "homeworld": "Tatooine",
+    "image": "images/luke.jpg",
+    "species": ["Human"],
+    "vehicles": ["Snowspeeder", "Imperial Speeder Bike"],
+    "starships": ["X-wing", "Imperial shuttle"],
+    "films": []
+  },
+  {
+    "name": "Darth Vader",
+    "slug": "darth-vader",
+    "height": "202",
+    "mass": "136",
+    "hair_color": "none",
+    "skin_color": "white",
+    "eye_color": "yellow",
+    "birth_year": "41.9BBY",
+    "gender": "male",
+    "homeworld": "Tatooine",
+    "image": "images/darth-vader.jpg",
+    "species": ["Human"],
+    "vehicles": [],
+    "starships": ["TIE Advanced x1"],
+    "films": []
+  }
+]
