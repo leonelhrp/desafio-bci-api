@@ -10,7 +10,7 @@
     "birth_year": "19BBY",
     "gender": "male",
     "homeworld": "Tatooine",
-    "image": "images/luke.jpg",
+    "image": "assets/images/luke.jpg",
     "species": ["Human"],
     "vehicles": ["Snowspeeder", "Imperial Speeder Bike"],
     "starships": ["X-wing", "Imperial shuttle"],
@@ -27,10 +27,10 @@
     "birth_year": "41.9BBY",
     "gender": "male",
     "homeworld": "Tatooine",
-    "image": "images/darth-vader.jpg",
+    "image": "assets/images/darth-vader.jpg",
     "species": ["Human"],
     "vehicles": [],
-    "starships": ["TIE Advanced x1"],
+    "starships": ["TIE Advanced x1", "X-wing"],
     "films": []
   }
 ]
